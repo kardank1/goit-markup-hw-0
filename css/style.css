@@ -101,7 +101,7 @@ ul, ol{
     font-weight: 500;
     line-height: 150%;
     letter-spacing: 0.32px;
-    margin-right: 40px;
+    padding: 24px 0;
 }
 
 .menu-link{
@@ -291,7 +291,7 @@ ul, ol{
     border-bottom: 1px solid #E7E9FC;
     border-right: 1px solid #E7E9FC;
     border-left: 1px solid #E7E9FC;
-    padding: 32px 0 16px 32px;
+    padding: 32px 16px;
 }
 
 .portfolio-subtitle{
